@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects involving business analysis, BI, and data science. If you're looking for a committed team player passionate about turning data into actionable insights, I'm ready to contribute.
 - 📫 You can contact me through my email (brunanunesg15@gmail.com) or via LinkedIn (https://www.linkedin.com/in/bruna-nunes-483aaa150/). I am open to networking and exchanging ideas with colleagues in the field.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love challenges and learning about a subject I have no idea about. Plus, I love ballroom dancing and going to the gym.
+- ⚡ Fun fact: I love challenges and learning about a subject I have no idea about. Plus, I love traveling and discovering new places and cultures, ballroom dancing and going to the gym.
 
 <!---
 databru/databru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

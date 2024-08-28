@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Bruna Nunes, a professional passionate about business analysis and Business Intelligence. I work as a business analyst, bringing my expertise in data, SQL, Python, and analytics to drive strategic decisions in organizations.
+- 👋 I am a Data Professional with extensive experience in transforming data into strategic insights that support managers' decisions. 
+
+Throughout my career, I have developed advanced analytics with Python and SQL, created robust dashboards to interpret large volumes of data, and collaborated with cross-functional teams to ensure analytical solutions meet business needs.
+
+I have an approach focused on data-driven strategies, always seeking to innovate and promote a data culture, with the aim of optimizing processes and aligning operations with organizational objectives.
 - 👀 I’m interested in the practical application of data analysis techniques to provide valuable insights and drive business growth. I have a knack for data extraction, cleaning, modeling and dataviz, and I enjoy exploring new tools and technologies in the BI field.
 - 🌱 I'm currently learning machine learning, understanding behaviors and how these analyzes can change the strategic direction of companies...
 - 💞️ I’m looking to collaborate on projects involving business analysis, BI, and data science. If you're looking for a committed team player passionate about turning data into actionable insights, I'm ready to contribute.
